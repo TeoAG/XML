@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>   
+    <Libro ID="">
+        <Nome></Nome>
+        <Autore></Autore>
+        <Genere></Genere>
+        <Anno></Anno>
+    </Libro>
+</Biblioteca>

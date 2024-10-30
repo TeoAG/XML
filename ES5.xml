@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carrello>
+    <Articolo>
+        <Latte tipo="Parzialmente scremato" >2</Latte>
+        <Scadenza>4 gg dalla scadenza</Scadenza>
+    </Articolo>
+    <Articolo>
+        <Gelato Marca="Algida">1</Gelato>
+        <peso unità="gr">250</peso>
+    </Articolo>
+    <Articolo>
+        <Caffè Marca="Lavazza">1</Caffè>
+        <Busta unità="Bustina">20</Busta>
+    </Articolo>
+</Carrello>
