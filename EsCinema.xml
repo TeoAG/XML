@@ -1,2 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  
+<Cinema>
+    <Film>
+        <DatiPrincipali>
+            <Titolo></Titolo>
+            <regista></regista>
+            <Anno></Anno>
+            <PaeseOrigine></PaeseOrigine>
+            <Durata></Durata>
+        </DatiPrincipali>
+        <Categoria></Categoria>
+        <genere></genere>
+        <Cast>
+            <Attore>
+                <Nome></Nome>
+            </Attore>
+            <Attore>
+                <Nome></Nome>
+            </Attore>
+            <Attore>
+                <Nome></Nome>
+            </Attore>
+        </Cast>
+        <LS>
+            <Audio>
+                <LinguaOriginale></LinguaOriginale>
+            </Audio>
+            <Sottotitoli>
+                <Lingua></Lingua>
+                <Lingua></Lingua>
+                <Lingua></Lingua>
+                <Lingua></Lingua>
+            </Sottotitoli>
+        </LS>
+        <DatiEvento>
+            <Data tipo="gg/mm"></Data>
+            <ora tipo="hh:mm"></ora>
+            <location>
+                <NomeSala></NomeSala>
+                <AreaProiezione></AreaProiezione>
+            </location>
+            <Biglietto>
+                <BigliettoVIP>
+                    <prezzo tipo="EUR.CENT"></prezzo>
+                </BigliettoVIP>
+                <BigliettoNorm>
+                    <prezzo tipo="EUR.CENT"></prezzo>
+                </BigliettoNorm>
+            </Biglietto>
+        </DatiEvento>
+    </Film>
+    <Film>
+        <DatiPrincipali>
+            <Titolo></Titolo>
+            <regista></regista>
+            <Anno></Anno>
+            <PaeseOrigine></PaeseOrigine>
+            <Durata></Durata>
+        </DatiPrincipali>
+        <Categoria></Categoria>
+        <genere></genere>
+        <Cast>
+            <Attore>
+                <Nome></Nome>
+            </Attore>
+            <Attore>
+                <Nome></Nome>
+            </Attore>
+            <Attore>
+                <Nome></Nome>
+            </Attore>
+        </Cast>
+        <LS>
+            <Audio>
+                <LinguaOriginale></LinguaOriginale>
+            </Audio>
+            <Sottotitoli>
+                <Lingua></Lingua>
+                <Lingua></Lingua>
+                <Lingua></Lingua>
+                <Lingua></Lingua>
+            </Sottotitoli>
+        </LS>
+        <DatiEvento>
+            <Data tipo="gg/mm"></Data>
+            <ora tipo="hh:mm"></ora>
+            <location>
+                <NomeSala></NomeSala>
+                <AreaProiezione></AreaProiezione>
+            </location>
+            <Biglietto>
+                <BigliettoVIP>
+                    <prezzo tipo="EUR.CENT"></prezzo>
+                </BigliettoVIP>
+                <BigliettoNorm>
+                    <prezzo tipo="EUR.CENT"></prezzo>
+                </BigliettoNorm>
+            </Biglietto>
+        </DatiEvento>
+    </Film>
+    <Ospiti>
+
+    </Ospiti>
+</Cinema>
